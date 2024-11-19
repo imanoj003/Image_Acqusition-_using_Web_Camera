@@ -1,4 +1,6 @@
-
+# IMAGE ACQUISITION USING WEB CAMERA
+## EXP : 2
+## DATE : 2 / 8 / 24
 ## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
@@ -26,8 +28,8 @@ Use cv2.imshow to show the video.
 End the program and close the output video window by pressing 'q'.
 
 ## Program:
-### Developed By: MANOJ M
-### Register No: 212221240027
+####  Developed By: MANOJ M
+####  Register No: 212221240027
 
 ## i) Write the frame as JPG file
 ```
